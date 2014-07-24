@@ -1,6 +1,6 @@
 package nguyenchihoang;
 
-
+// try to learn
 public class Employee extends Person {
 
 	private double salary;
